@@ -1,11 +1,12 @@
-# Sisop-5-2025-IT-Template
+# Sisop-5-2025-IT39
 
 ## Kelompok
 
 Nama | NRP
 --- | ---
-Amoes Noland | 5027231028
-Rafi' Afnaan Fathurrahman | 5027231040
+Ahmad Wildan Fawwaz | 5027241001
+Clarissa Aydin Rahmazea | 5027241014
+Muhammad Rafi' Adly | 5027241082
 
 ## Daftar Isi
 
